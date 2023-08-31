@@ -22,6 +22,7 @@ Supported file types: '.jpg', '.jpeg', '.png'
 ## Use it
 
 - Open in Github CodeSpaces or git clone locally and open in VS Code - It is dockerized for your safety and convenience.
+- Note: If you are using Github CodeSpaces, don't forget to stop them once you are done at https://github.com/codespaces
 - Place your images (formats allows: jpg, jpeg and png) in the input folder
 - node index.js input output 500
 - You resized files should be in the output folder
